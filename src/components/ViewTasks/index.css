@@ -1,0 +1,18 @@
+.view-container{
+    min-height: 100vh;
+    background-color: bisque;
+}
+
+.view-ul{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    list-style-type: none;
+    padding-left: 0px;
+    padding-bottom: 20px;
+}
+
+.view-h1{
+    text-align: center;
+}

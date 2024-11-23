@@ -1,0 +1,61 @@
+.task-li{
+    border: 1px solid black;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    border-radius: 10px;
+    height: fit-content;
+    padding: 5px;
+}
+
+.task-top-container{
+    width: fit-content;
+    align-self: center;
+}
+
+.task-h1{
+    font-size: 25px;
+    margin-bottom: 0px;
+}
+
+.task-p{
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+
+.task-button-container{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.task-edit-btn{
+    min-width: 100px;
+    height: 25px;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+.task-delete-btn{
+    min-width: 100px;
+    height: 25px;
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+@media (max-width: 900px) {
+    .task-li{
+        width: 40%;
+    }
+}
+
+@media (max-width: 600px) {
+    .task-li{
+        width: 90%;
+    }
+}

@@ -1,0 +1,24 @@
+.header-nav-container{
+    background-color: black;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.header-ul{
+    list-style-type: none;
+    padding-left: 0%;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.header-link{
+    text-decoration: none;
+}
+
+.header-button{
+    background-color: black;
+    color: white;
+    border: none;
+}

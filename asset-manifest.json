@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/filoffee/static/css/main.36007e45.css",
+    "main.js": "/filoffee/static/js/main.0be35b64.js",
+    "index.html": "/filoffee/index.html",
+    "main.36007e45.css.map": "/filoffee/static/css/main.36007e45.css.map",
+    "main.0be35b64.js.map": "/filoffee/static/js/main.0be35b64.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36007e45.css",
+    "static/js/main.0be35b64.js"
+  ]
+}

@@ -27,10 +27,10 @@ To ensure the responsive design, I used media queries and flexbox for layouting.
 
 I have planned to develop a backend using node.Js and Express.Js to replace the local storage. This will also allow me to have more control over the data.
 
-The git repository is:  
+The git repository of this project is: https://github.com/Jaswanth-Kollipara/filoffee.git
 
 I have used gh-pages to deploy the application
-The deployed link is:
+The deployed link is: https://jaswanth-kollipara.github.io/filoffee/
 
 # Getting Started with Create React App
 

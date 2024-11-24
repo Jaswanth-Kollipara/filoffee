@@ -1,4 +1,4 @@
-Download the zip file from the repository.
+Download the zip file from the "https://github.com/Jaswanth-Kollipara/filoffee.git" repository.
 Unpack the file.
 Move the folder to D:\ReactProjects,
 run "npm install" in the terminal to install all the packages.

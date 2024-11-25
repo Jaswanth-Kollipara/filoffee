@@ -16,7 +16,6 @@ const EditTask=props=>{
         dueDateError: false,
         statusError: false,
     })
-    //contactsList: [...prevState.contactsList, newContact],
 
     useEffect(() => {
         const items = JSON.parse(localStorage.getItem('taskList'))
